@@ -19,4 +19,3 @@ def caesar_cipher (sentence, shift)
   return new_sentence
 end
 
-p caesar_cipher("Zhat a string!",1)
