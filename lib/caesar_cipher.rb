@@ -16,6 +16,6 @@ def caesar_cipher (sentence, shift)
       new_sentence += c
     end 
   }
-  return new_sentence
+  new_sentence
 end
 
